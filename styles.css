@@ -41,7 +41,7 @@ padding-top: 1px;
 
 /************** logo styles ************/
 
-.main-logo .st1{
+.main-logo .stt1{
   display: none;
 
 }
@@ -64,10 +64,8 @@ a:hover .st0-contact,
 a:hover .st0-heart,
 a:hover .st0-location{
   fill: #111;
-  
-  
-  
 }
+
 a:hover{
   
   color: #111;
@@ -152,13 +150,14 @@ footer {
 }
 
 /************** media queries ************/
+
 @media (min-width: 420px ){
 
 .logo-name{
   display: none;
 }
 
-.main-logo .st1{
+.main-logo .stt1{
   display: block;
   fill:#FFC38C;
 }
